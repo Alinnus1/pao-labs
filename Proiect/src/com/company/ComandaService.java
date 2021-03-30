@@ -14,5 +14,6 @@ public class ComandaService {
         ArrayList<FelDeMancare> feluri = comanda.getFeluriDeMancare();
         feluri.remove(fel);
         comanda.setFeluriDeMancare(feluri);
+
     }
 }

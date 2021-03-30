@@ -1,6 +1,6 @@
 package com.company;
 
-public class FelDeMancare {
+public class FelDeMancare implements Comparable<FelDeMancare> {
 
     private static int COUNTER;
 
@@ -30,5 +30,16 @@ public class FelDeMancare {
 
     public void setPret(int pret) {
         Pret = pret;
+    }
+
+
+    @Override
+    public int compareTo(FelDeMancare o) {
+        if(Pret == o.Pret)
+            return 0;
+        else if(Pret> o.Pret)
+            return 1;
+        else
+            return -1;
     }
 }
