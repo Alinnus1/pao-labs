@@ -1,0 +1,15 @@
+
+i
+java:S1128"GRemove this unused import 'javax.security.auth.login.AccountException'.(‘µ†Íÿÿÿÿÿ8Ù‚³¤/
+o
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8é‚³¤/
+V
+java:S5993"9Change the visibility of this constructor to "protected".(šõ‚²8ê‚³¤/
+t	java:S116	"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›™Âûÿÿÿÿ8ê‚³¤/
+l	java:S116
+"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚8ê‚³¤/
+p	java:S116"ORename this field "Nume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ»¥ÿÿÿÿÿ8ê‚³¤/
+m	java:S116"RRename this field "Prenume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼î™8ê‚³¤/
+m	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÿê˜8ê‚³¤/
+G
+java:S1068"*Remove this unused "UserId" private field.(„ÿê˜8ñ‚³¤/

@@ -1,0 +1,35 @@
+
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(É‘çÿÿÿÿÿ
+Œ
+java:S1319"vThe type of the "ListaSoferi" object should be an interface such as "List" rather than the implementation "ArrayList".(Ö•×š
+c
+java:S2095-"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¾ÚÊßûÿÿÿÿ
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Òø·•
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù¯õ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö•×š
+O
+java:S1128"3Remove this unused import 'java.security.KeyStore'.(ïººW8¢’™©/
+N
+java:S1854"8Remove this useless assignment to local variable "line".(ş¦ë¶
+E
+java:S6212	"/Declare this local variable with "var" instead.(ëŠØµ
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù¯õ
+Z
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä
+E
+java:S6212"/Declare this local variable with "var" instead.(Òø·•
+E
+java:S6212"/Declare this local variable with "var" instead.(°ßõã
+J
+java:S6212"/Declare this local variable with "var" instead.(€§¶‚üÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(ÃèĞ¯ùÿÿÿÿ8½È¨/
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¯Æó¤şÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¹…¬
+J
+java:S6212-"/Declare this local variable with "var" instead.(¾ÚÊßûÿÿÿÿ

@@ -54,4 +54,14 @@ abstract class User {
     public void setPrenume(String prenume) {
         Prenume = prenume;
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "Password='" + Password + '\'' +
+                ", Email='" + Email + '\'' +
+                ", Nume='" + Nume + '\'' +
+                ", Prenume='" + Prenume + '\'' +
+                '}';
+    }
 }

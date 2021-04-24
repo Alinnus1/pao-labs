@@ -1,0 +1,12 @@
+
+Q
+java:S6212	"/Declare this local variable with "var" instead.(ÌüÅ²ûÿÿÿÿ8Öºí£/
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ã‘‚”8×ºí£/
+L
+java:S6212
+"/Declare this local variable with "var" instead.(»³½‹8×ºí£/
+Q
+java:S6212"/Declare this local variable with "var" instead.(»‰ûÂûÿÿÿÿ8Ùºí£/
+L
+java:S6212"/Declare this local variable with "var" instead.(…Ïœš8Ùºí£/

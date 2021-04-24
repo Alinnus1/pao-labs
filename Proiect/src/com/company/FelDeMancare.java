@@ -42,4 +42,12 @@ public class FelDeMancare implements Comparable<FelDeMancare> {
         else
             return -1;
     }
+
+    @Override
+    public String toString() {
+        return "FelDeMancare{" +
+                "Nume='" + Nume + '\'' +
+                ", Pret=" + Pret +
+                '}';
+    }
 }

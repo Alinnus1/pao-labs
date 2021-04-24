@@ -7,6 +7,13 @@ public class Client extends User{
     private Adresa Adresa;
     private ArrayList<Comanda> Comenzi;
 
+
+    public Client(String password, String email, String nume, String prenume) {
+        super(password, email, nume, prenume);
+        Adresa = new Adresa();
+        Comenzi = new ArrayList<Comanda>();
+    }
+
     public Client(String password, String email, String nume, String prenume, com.company.Adresa adresa, ArrayList<Comanda> comenzi) {
         super(password, email, nume, prenume);
         Adresa = adresa;
@@ -34,7 +41,7 @@ public class Client extends User{
 
     @Override
     public String toString() {
-        return "Client{" +
+        return super.toString() + "Client{" +
                 "Adresa=" + Adresa +
                 ", Comenzi=" + Comenzi +
                 '}';

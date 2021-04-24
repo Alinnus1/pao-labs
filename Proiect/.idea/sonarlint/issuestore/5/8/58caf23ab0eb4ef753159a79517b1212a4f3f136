@@ -1,0 +1,43 @@
+
+‹
+java:S1319!"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜º´ğúÿÿÿÿ
+’
+java:S13194"wThe type of the "ListaClienti" object should be an interface such as "List" rather than the implementation "ArrayList".(Úşƒ“ıÿÿÿÿ
+b
+java:S2095%"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Òø·•
+c
+java:S2095G"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¾ÚÊßûÿÿÿÿ
+e	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ²‰p
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úşƒ“ıÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(¸ÓÂñ8§Ú¿¨/
+Q
+java:S6212"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ8©Ú¿¨/
+Q
+java:S6212"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ8©Ú¿¨/
+L
+java:S6212"/Declare this local variable with "var" instead.(¸ÓÂñ8¥ªÀ¨/
+Q
+java:S6212"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ8¥ªÀ¨/
+Q
+java:S6212"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ8¥ªÀ¨/
+N
+java:S1854&"8Remove this useless assignment to local variable "line".(ş¦ë¶
+n
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ²‰p
+E
+java:S6212#"/Declare this local variable with "var" instead.(ëŠØµ
+Z
+java:S2147/"DCombine this catch with the one at line 45, which has the same body.(ï­£Ä
+E
+java:S6212%"/Declare this local variable with "var" instead.(Òø·•
+E
+java:S6212)"/Declare this local variable with "var" instead.(»ê”×
+J
+java:S62125"/Declare this local variable with "var" instead.(€§¶‚üÿÿÿÿ
+Q
+java:S62126"/Declare this local variable with "var" instead.(ÃèĞ¯ùÿÿÿÿ8°í„¨/
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¯Æó¤şÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¹…¬
+J
+java:S6212G"/Declare this local variable with "var" instead.(¾ÚÊßûÿÿÿÿ

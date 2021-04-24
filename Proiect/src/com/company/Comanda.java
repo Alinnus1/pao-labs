@@ -9,6 +9,7 @@ public class Comanda {
     private final int ComandaId;
     private Restaurant Restaurant;
     private ArrayList<FelDeMancare> FeluriDeMancare;
+    //private pret total
 
     public Comanda(com.company.Restaurant restaurant, ArrayList<FelDeMancare> feluriDeMancare) {
         Restaurant = restaurant;

@@ -26,4 +26,12 @@ public class Sofer extends User{
     public void setSalariu(double salariu) {
         Salariu = salariu;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() + "Sofer{" +
+                "Masina='" + Masina + '\'' +
+                ", Salariu=" + Salariu +
+                '}';
+    }
 }

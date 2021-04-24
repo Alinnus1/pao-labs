@@ -1,0 +1,59 @@
+
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖªåÀ
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Û¯˜şÿÿÿÿ
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù¯õ
+e	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ²‰p
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+U
+java:S1854#"?Remove this useless assignment to local variable "ListaAdrese".(ÖªåÀ
+Z
+java:S1854*"?Remove this useless assignment to local variable "ListaFeluri".(²Û¯˜şÿÿÿÿ
+U
+java:S18540"?Remove this useless assignment to local variable "ListaSoferi".(ìù¯õ
+U
+java:S18546"@Remove this useless assignment to local variable "ListaClienti".(Ğ²‰p
+J
+java:S6212"/Declare this local variable with "var" instead.(ºíŒŸûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.( ŸŒÿıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ŸŒÿıÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(öåÇÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(—×
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÿÑÛ
+J
+java:S6212"/Declare this local variable with "var" instead.(›äüãşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Î¢³·
+E
+java:S6212"/Declare this local variable with "var" instead.(±¾³€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾½°²
+E
+java:S6212"/Declare this local variable with "var" instead.(ëæ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+E
+java:S6212 "/Declare this local variable with "var" instead.(Ö¼•
+E
+java:S6212!"/Declare this local variable with "var" instead.(ØË³ã
+J
+java:S6212""/Declare this local variable with "var" instead.(ÒÕ™ïøÿÿÿÿ
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖªåÀ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Û¯˜şÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+o
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù¯õ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+n
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ²‰p
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ

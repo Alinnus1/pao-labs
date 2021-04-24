@@ -1,5 +1,8 @@
 package com.company;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class Adresa {
 
     private static int COUNTER;
@@ -11,7 +14,27 @@ public class Adresa {
     private int Scara;
     private int Apartament;
 
+    public Adresa(){
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        Date date = new Date();
+        AuditService audit = new AuditService();
+        audit.writeCSV("new Instance of Adresa",formatter.format(date));
+
+        Strada = "";
+        Numar = 0;
+        Bloc = "";
+        Scara = 0;
+        Apartament = 0;
+        AdresaId = COUNTER;
+        COUNTER++;
+    }
+
     public Adresa(String strada, int numar, String bloc, int scara, int apartament) {
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        Date date = new Date();
+        AuditService audit = new AuditService();
+        audit.writeCSV("new Instance of Adresa",formatter.format(date));
+
         Strada = strada;
         Numar = numar;
         Bloc = bloc;
@@ -51,6 +74,14 @@ public class Adresa {
 
     public void setApartament(int apartament) {
         Apartament = apartament;
+    }
+
+    public String getStrada() {
+        return Strada;
+    }
+
+    public void setStrada(String strada) {
+        Strada = strada;
     }
 
     @Override

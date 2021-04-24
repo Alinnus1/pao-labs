@@ -1,0 +1,7 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÇÒ¤/
+o
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8¤û•£/
+s	java:S116"RRename this field "MeniuId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÙÃÊÿÿÿÿÿ8¥û•£/
+n	java:S116	"RRename this field "Optiuni" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ñø8¥û•£/

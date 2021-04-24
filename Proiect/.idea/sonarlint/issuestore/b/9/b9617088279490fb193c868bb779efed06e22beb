@@ -1,0 +1,14 @@
+
+—
+java:S1319"zThe type of the "feluriDeMancare" object should be an interface such as "List" rather than the implementation "ArrayList".(Î€«Ã8ì×£/
+’
+java:S1319&"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¯š«ûÿÿÿÿ8ì×£/
+œ
+java:S1319*"zThe type of the "feluriDeMancare" object should be an interface such as "List" rather than the implementation "ArrayList".(Âòµúÿÿÿÿ8í×£/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»‹‚8ú×£/
+o
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8ŠØ£/
+u	java:S116	"TRename this field "ComandaId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¦¿¸ÿÿÿÿÿ8šØ£/
+v	java:S116
+"URename this field "Restaurant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ÿ†éüÿÿÿÿ8šØ£/
+{	java:S116"ZRename this field "FeluriDeMancare" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅıÒ­øÿÿÿÿ8›Ø£/
