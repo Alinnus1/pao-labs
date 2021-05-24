@@ -2,36 +2,42 @@ package com.company;
 
 public class Sofer extends User{
 
-    private String Masina;
-    private double Salariu;
+    private String masina;
+    private double salariu;
 
     public Sofer(String password, String email, String nume, String prenume, String masina, double salariu) {
         super(password, email, nume, prenume);
-        Masina = masina;
-        Salariu = salariu;
+        this.masina = masina;
+        this.salariu = salariu;
+    }
+
+    public Sofer(int id ,String password, String email, String nume, String prenume,String masina, double salariu) {
+        super(id,password,email,nume,prenume);
+        this.masina = masina;
+        this.salariu = salariu;
     }
 
     public String getMasina() {
-        return Masina;
+        return masina;
     }
 
     public void setMasina(String masina) {
-        Masina = masina;
+        this.masina = masina;
     }
 
     public double getSalariu() {
-        return Salariu;
+        return salariu;
     }
 
     public void setSalariu(double salariu) {
-        Salariu = salariu;
+        this.salariu = salariu;
     }
 
     @Override
     public String toString() {
         return super.toString() + "Sofer{" +
-                "Masina='" + Masina + '\'' +
-                ", Salariu=" + Salariu +
+                "Masina='" + masina + '\'' +
+                ", Salariu=" + salariu +
                 '}';
     }
 }

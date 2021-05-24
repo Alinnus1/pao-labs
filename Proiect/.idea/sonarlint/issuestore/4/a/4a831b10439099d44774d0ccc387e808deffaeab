@@ -1,59 +1,104 @@
 
-f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖªåÀ
-k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Û¯˜şÿÿÿÿ
-f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù¯õ
-e	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ²‰p
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖªåÀ
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Û¯˜şÿÿÿÿ
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìù¯õ
+e	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ²‰p
+>
+java:S16044"(Make this anonymous inner class a lambda(µŞÉ
+R
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ
 K
-java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
 ?
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
 U
-java:S1854#"?Remove this useless assignment to local variable "ListaAdrese".(ÖªåÀ
+java:S1854&"?Remove this useless assignment to local variable "ListaAdrese".(ÖªåÀ
 Z
-java:S1854*"?Remove this useless assignment to local variable "ListaFeluri".(²Û¯˜şÿÿÿÿ
+java:S1854-"?Remove this useless assignment to local variable "ListaFeluri".(²Û¯˜şÿÿÿÿ
 U
-java:S18540"?Remove this useless assignment to local variable "ListaSoferi".(ìù¯õ
+java:S1854D"?Remove this useless assignment to local variable "ListaSoferi".(ìù¯õ
 U
-java:S18546"@Remove this useless assignment to local variable "ListaClienti".(Ğ²‰p
+java:S1854J"@Remove this useless assignment to local variable "ListaClienti".(Ğ²‰p
+X
+java:S1854v"=Remove this useless assignment to local variable "adresaUPS".(’„øÿÿÿÿ
+P
+java:S1854k":Remove this useless assignment to local variable "felUPS".(–å
+O
+java:S1854Y"9Remove this useless assignment to local variable "felUS".(ºöÏÈ
+R
+java:S1854X"<Remove this useless assignment to local variable "clientUS".(êÕôµ
+Q
+java:S1854W";Remove this useless assignment to local variable "soferUS".(øçºÒ
+Q
+java:S1854V"<Remove this useless assignment to local variable "adresaUS".(ëÃÁ
 J
-java:S6212"/Declare this local variable with "var" instead.(ºíŒŸûÿÿÿÿ
+java:S6212"/Declare this local variable with "var" instead.(ºíŒŸûÿÿÿÿ
 J
-java:S6212"/Declare this local variable with "var" instead.( ŸŒÿıÿÿÿÿ
+java:S6212"/Declare this local variable with "var" instead.( ŸŒÿıÿÿÿÿ
 t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ŸŒÿıÿÿÿÿ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ŸŒÿıÿÿÿÿ
 J
-java:S6212"/Declare this local variable with "var" instead.(öåÇÿÿÿÿÿ
+java:S6212"/Declare this local variable with "var" instead.(öåÇÿÿÿÿÿ
 E
-java:S6212"/Declare this local variable with "var" instead.(—×
+java:S6212"/Declare this local variable with "var" instead.(—×
 o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÿÑÛ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ÿÑÛ
 J
-java:S6212"/Declare this local variable with "var" instead.(›äüãşÿÿÿÿ
+java:S6212"/Declare this local variable with "var" instead.(›äüãşÿÿÿÿ
 E
-java:S6212"/Declare this local variable with "var" instead.(Î¢³·
+java:S6212"/Declare this local variable with "var" instead.(Î¢³·
 E
-java:S6212"/Declare this local variable with "var" instead.(±¾³€
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¾½°²
+java:S6212"/Declare this local variable with "var" instead.(±¾³€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾½°²
 E
-java:S6212"/Declare this local variable with "var" instead.(ëæ®
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
+java:S6212"/Declare this local variable with "var" instead.(ëæ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ
 E
-java:S6212 "/Declare this local variable with "var" instead.(Ö¼•
+java:S6212#"/Declare this local variable with "var" instead.(Ö¼•
 E
-java:S6212!"/Declare this local variable with "var" instead.(ØË³ã
+java:S6212$"/Declare this local variable with "var" instead.(ØË³ã
 J
-java:S6212""/Declare this local variable with "var" instead.(ÒÕ™ïøÿÿÿÿ
+java:S6212%"/Declare this local variable with "var" instead.(ÒÕ™ïøÿÿÿÿ
 o
-java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖªåÀ
-S	java:S106'"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖªåÀ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
 t
-java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Û¯˜şÿÿÿÿ
-S	java:S106."9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Û¯˜şÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
 o
-java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù¯õ
-S	java:S1064"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìù¯õ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
 n
-java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ²‰p
-S	java:S106:"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ²‰p
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8à¹•ì™/
+D
+java:S6212V"/Declare this local variable with "var" instead.(ëÃÁ
+E
+java:S6212W"/Declare this local variable with "var" instead.(øçºÒ
+E
+java:S6212X"/Declare this local variable with "var" instead.(êÕôµ
+E
+java:S6212Y"/Declare this local variable with "var" instead.(ºöÏÈ
+E
+java:S6212k"/Declare this local variable with "var" instead.(–å
+Q	java:S125["<This block of commented-out lines of code should be removed.(îŞÅ
+J
+java:S6212v"/Declare this local variable with "var" instead.(’„øÿÿÿÿ
+Q	java:S125m"<This block of commented-out lines of code should be removed.(óìş”
+Q	java:S125w"<This block of commented-out lines of code should be removed.(¿Š…
+R	java:S125€"<This block of commented-out lines of code should be removed.(óƒşÂ
+B
+java:S1481V"-Remove this unused "adresaUS" local variable.(ëÃÁ
+B
+java:S1481W",Remove this unused "soferUS" local variable.(øçºÒ
+C
+java:S1481X"-Remove this unused "clientUS" local variable.(êÕôµ
+@
+java:S1481Y"*Remove this unused "felUS" local variable.(ºöÏÈ
+A
+java:S1481k"+Remove this unused "felUPS" local variable.(–å
+I
+java:S1481v".Remove this unused "adresaUPS" local variable.(’„øÿÿÿÿ

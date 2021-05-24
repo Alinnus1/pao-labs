@@ -1,0 +1,40 @@
+
+b
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095/"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095D"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¤ğ”Ê
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212""/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+E
+java:S6212*"/Declare this local variable with "var" instead.(ø÷İ÷
+D
+java:S6212,"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212/"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+J
+java:S62120"/Declare this local variable with "var" instead.(Ì”çøÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(…æÅóûÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(âöµ’
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ü±¼¥úÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¦Áİıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ÄªÜîşÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ûº¡
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(§×Ç‹8¥øÔ™/
+J
+java:S6212A"/Declare this local variable with "var" instead.(æÂÔáÿÿÿÿÿ
+D
+java:S6212B"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212D"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ

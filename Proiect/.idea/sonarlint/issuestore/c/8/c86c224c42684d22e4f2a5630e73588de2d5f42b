@@ -1,0 +1,42 @@
+
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095/"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+b
+java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¯ƒÍ¬şÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212""/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+D
+java:S6212*"/Declare this local variable with "var" instead.(Û°Ø
+
+D
+java:S6212,"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212/"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ
+J
+java:S62120"/Declare this local variable with "var" instead.(Ì”çøÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(…æÅóûÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¥¿¸Éıÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÚÛİ©
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÿ¸ö¿üÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(—Û¯š
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ïºÏıÿÿÿÿ
+E
+java:S6212@"/Declare this local variable with "var" instead.(üİ¡Ù
+D
+java:S6212A"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212C"/Declare this local variable with "var" instead.(õ½ÛØşÿÿÿÿ

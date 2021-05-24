@@ -1,11 +1,5 @@
 
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¹¿‚£/
 o
-java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8º¿‚£/
-s	java:S116	"WRename this field "RestaurantId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ­ã¹8»¿‚£/
-p	java:S116
-"ORename this field "Nume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ»¥ÿÿÿÿÿ8»¿‚£/
-r	java:S116"QRename this field "Adresa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š›´ùüÿÿÿÿ8»¿‚£/
-l	java:S116"PRename this field "Meniu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ—‚Ñ8»¿‚£/
-X	java:S125+"<This block of commented-out lines of code should be removed.(˜Êæ8Á¿‚£/
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8º¿‚£/
+s	java:S116"WRename this field "RestaurantId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ­ã¹8»¿‚£/
+X	java:S125)"<This block of commented-out lines of code should be removed.(˜Êæ8Á¿‚£/

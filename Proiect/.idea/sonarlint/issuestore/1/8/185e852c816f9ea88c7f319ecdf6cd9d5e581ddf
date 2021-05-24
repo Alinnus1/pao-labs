@@ -1,0 +1,43 @@
+
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•’¢
+j
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(È‹Ö¤ÿÿÿÿÿ
+e
+java:S2095J"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”û¿Ø
+j
+java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Äò„Ñùÿÿÿÿ
+j
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¤àšœüÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¨©··
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+E
+java:S6212"/Declare this local variable with "var" instead.(•’¢
+J
+java:S6212 "/Declare this local variable with "var" instead.(úãÓ‚øÿÿÿÿ
+D
+java:S6212""/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212$"/Declare this local variable with "var" instead.(È‹Ö¤ÿÿÿÿÿ
+E
+java:S6212'"/Declare this local variable with "var" instead.(ò¡¥¹
+J
+java:S62120"/Declare this local variable with "var" instead.(çŠàÙÿÿÿÿÿ
+J
+java:S62121"/Declare this local variable with "var" instead.(Ÿ€ş³ÿÿÿÿÿ
+D
+java:S62123"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S62125"/Declare this local variable with "var" instead.(¤àšœüÿÿÿÿ
+J
+java:S62126"/Declare this local variable with "var" instead.(Äò„Ñùÿÿÿÿ
+J
+java:S6212F"/Declare this local variable with "var" instead.(ï˜ùÇúÿÿÿÿ
+D
+java:S6212G"/Declare this local variable with "var" instead.(¬ô‰x
+E
+java:S6212J"/Declare this local variable with "var" instead.(”û¿Ø

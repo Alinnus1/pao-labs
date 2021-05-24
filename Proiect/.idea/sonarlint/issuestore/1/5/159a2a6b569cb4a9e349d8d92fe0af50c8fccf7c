@@ -1,0 +1,41 @@
+
+j
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(È‹Ö¤ÿÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•Ò£ïúÿÿÿÿ
+j
+java:S2095="OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÛÔÙÛùÿÿÿÿ
+e
+java:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(”û¿Ø
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'com.company.Adresa'.(¹ú
+X
+java:S1128"BRemove this unused import 'javax.naming.ldap.PagedResultsControl'.(Ì¢áÚ
+E
+java:S6212"/Declare this local variable with "var" instead.(°ƒşË
+D
+java:S6212"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212"/Declare this local variable with "var" instead.(•Ò£ïúÿÿÿÿ
+J
+java:S6212&"/Declare this local variable with "var" instead.(éòÌÕøÿÿÿÿ
+D
+java:S6212("/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212+"/Declare this local variable with "var" instead.(È‹Ö¤ÿÿÿÿÿ
+E
+java:S6212."/Declare this local variable with "var" instead.(ò¡¥¹
+J
+java:S62128"/Declare this local variable with "var" instead.(¦§òæúÿÿÿÿ
+D
+java:S6212:"/Declare this local variable with "var" instead.(¬ô‰x
+J
+java:S6212="/Declare this local variable with "var" instead.(ÛÔÙÛùÿÿÿÿ
+E
+java:S6212O"/Declare this local variable with "var" instead.(¨“ú
+D
+java:S6212P"/Declare this local variable with "var" instead.(¬ô‰x
+E
+java:S6212S"/Declare this local variable with "var" instead.(”û¿Ø

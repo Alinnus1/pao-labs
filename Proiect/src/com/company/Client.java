@@ -1,39 +1,48 @@
 package com.company;
 
+import repository.AdresaUPS;
+
 import java.util.ArrayList;
+
 
 public class Client extends User{
 
-    private Adresa Adresa;
-    private ArrayList<Comanda> Comenzi;
+    private Adresa adresa;
+    private ArrayList<Comanda> comenzi;
 
 
     public Client(String password, String email, String nume, String prenume) {
         super(password, email, nume, prenume);
-        Adresa = new Adresa();
-        Comenzi = new ArrayList<Comanda>();
+        adresa = new Adresa();
+        comenzi = new ArrayList<Comanda>();
     }
 
     public Client(String password, String email, String nume, String prenume, com.company.Adresa adresa, ArrayList<Comanda> comenzi) {
         super(password, email, nume, prenume);
-        Adresa = adresa;
-        Comenzi = comenzi;
+        this.adresa = adresa;
+        this.comenzi = comenzi;
+    }
+
+    public Client(int id,String password, String email, String nume, String prenume, int adresaId){
+        super(id,password,email,nume,prenume);
+        this.adresa = AdresaUPS.getAdresaById(adresaId);
+
     }
 
     public com.company.Adresa getAdresa() {
-        return Adresa;
+        return adresa;
     }
 
     public void setAdresa(com.company.Adresa adresa) {
-        Adresa = adresa;
+        this.adresa = adresa;
     }
 
     public ArrayList<Comanda> getComenzi() {
-        return Comenzi;
+        return comenzi;
     }
 
     public void setComenzi(ArrayList<Comanda> comenzi) {
-        Comenzi = comenzi;
+        this.comenzi = comenzi;
     }
 
 //    public void adComanda(Comanda comanda){
@@ -42,8 +51,8 @@ public class Client extends User{
     @Override
     public String toString() {
         return super.toString() + "Client{" +
-                "Adresa=" + Adresa +
-                ", Comenzi=" + Comenzi +
+                "Adresa=" + adresa +
+                ", Comenzi=" + comenzi +
                 '}';
     }
 //    }

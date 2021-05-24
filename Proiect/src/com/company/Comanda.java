@@ -6,15 +6,15 @@ public class Comanda {
 
     private static int COUNTER;
 
-    private final int ComandaId;
-    private Restaurant Restaurant;
-    private ArrayList<FelDeMancare> FeluriDeMancare;
+    private final int comandaId;
+    private Restaurant restaurant;
+    private ArrayList<FelDeMancare> feluriDeMancare;
     //private pret total
 
     public Comanda(com.company.Restaurant restaurant, ArrayList<FelDeMancare> feluriDeMancare) {
-        Restaurant = restaurant;
-        FeluriDeMancare = feluriDeMancare;
-        ComandaId = COUNTER;
+        this.restaurant = restaurant;
+        this.feluriDeMancare = feluriDeMancare;
+        comandaId = COUNTER;
         COUNTER++;
 
     }
@@ -24,32 +24,32 @@ public class Comanda {
     }
 
     public int getComandaId() {
-        return ComandaId;
+        return comandaId;
     }
 
     public com.company.Restaurant getRestaurant() {
-        return Restaurant;
+        return restaurant;
     }
 
     public void setRestaurant(com.company.Restaurant restaurant) {
-        Restaurant = restaurant;
+        this.restaurant = restaurant;
     }
 
     public ArrayList<FelDeMancare> getFeluriDeMancare() {
-        return FeluriDeMancare;
+        return feluriDeMancare;
     }
 
     public void setFeluriDeMancare(ArrayList<FelDeMancare> feluriDeMancare) {
-        FeluriDeMancare = feluriDeMancare;
+        this.feluriDeMancare = feluriDeMancare;
     }
 
 
     @Override
     public String toString() {
         return "Comanda{" +
-                "ComandaId=" + ComandaId +
-                ", Restaurant=" + Restaurant +
-                ", FeluriDeMancare=" + FeluriDeMancare +
+                "ComandaId=" + comandaId +
+                ", Restaurant=" + restaurant +
+                ", FeluriDeMancare=" + feluriDeMancare +
                 '}';
     }
 }

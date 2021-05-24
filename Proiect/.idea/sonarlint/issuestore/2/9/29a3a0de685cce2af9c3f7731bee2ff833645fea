@@ -1,10 +1,6 @@
 
-{
-java:S1210%"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(–Ô˜Æÿÿÿÿÿ8 –£/
-o
-java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼8¡–£/
-p	java:S116"ORename this field "Nume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÀ»¥ÿÿÿÿÿ8¡–£/
-p	java:S116"ORename this field "Pret" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şüˆÒşÿÿÿÿ8¡–£/
-u	java:S116	"YRename this field "FelDeMancareId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŞ‚œ8¡–£/
-O
-java:S1068	"2Remove this unused "FelDeMancareId" private field.(ÓŞ‚œ8¨–£/
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8æ¾–ì™/
+h
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼
+]	java:S1250"<This block of commented-out lines of code should be removed.(ÚÌÖùÿÿÿÿ8£³ôë™/

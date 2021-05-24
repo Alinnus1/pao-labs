@@ -5,35 +5,35 @@ abstract class Magazin {
     private static int COUNTER;
 
 
-    private String Nume;
-    private Adresa Adresa;
-    private final int MagazinId;
+    private String nume;
+    private Adresa adresa;
+    private final int magazinId;
 
     public Magazin(String nume, com.company.Adresa adresa) {
-        Nume = nume;
-        Adresa = adresa;
-        MagazinId = COUNTER;
+        this.nume = nume;
+        this.adresa = adresa;
+        magazinId = COUNTER;
         COUNTER++;
 
     }
 
     public String getNume() {
-        return Nume;
+        return nume;
     }
 
     public void setNume(String nume) {
-        Nume = nume;
+        this.nume = nume;
     }
 
     public com.company.Adresa getAdresa() {
-        return Adresa;
+        return adresa;
     }
 
     public void setAdresa(com.company.Adresa adresa) {
-        Adresa = adresa;
+        this.adresa = adresa;
     }
 
     public int getMagazinId() {
-        return MagazinId;
+        return magazinId;
     }
 }

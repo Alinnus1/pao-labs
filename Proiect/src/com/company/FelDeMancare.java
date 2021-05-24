@@ -1,53 +1,74 @@
 package com.company;
 
-public class FelDeMancare implements Comparable<FelDeMancare> {
+import java.util.Comparator;
+
+public class FelDeMancare  {
 
     private static int COUNTER;
 
-    private String Nume;
-    private int Pret;
-    private int FelDeMancareId;
+    private String nume;
+    private int pret;
+    private int felDeMancareId;
+
+    public int getFelDeMancareId() {
+        return felDeMancareId;
+    }
 
     public FelDeMancare(String nume, int pret) {
-        Nume = nume;
-        Pret = pret;
-        FelDeMancareId = COUNTER;
+        this.nume = nume;
+        this.pret = pret;
+        felDeMancareId = COUNTER;
         COUNTER++;
 
     }
+    public FelDeMancare(int id,String nume, int pret) {
+        this.nume = nume;
+        this.pret = pret;
+        this.felDeMancareId = id;
+    }
 
     public String getNume() {
-        return Nume;
+        return nume;
     }
 
     public void setNume(String nume) {
-        Nume = nume;
+        this.nume = nume;
     }
 
     public int getPret() {
-        return Pret;
+        return pret;
     }
 
     public void setPret(int pret) {
-        Pret = pret;
+        this.pret = pret;
     }
 
 
-    @Override
-    public int compareTo(FelDeMancare o) {
-        if(Pret == o.Pret)
-            return 0;
-        else if(Pret> o.Pret)
-            return 1;
-        else
-            return -1;
-    }
+//    @Override
+//    public int compareTo(FelDeMancare o) {
+//        if(pret == o.pret)
+//            return 0;
+//        else if(pret > o.pret)
+//            return 1;
+//        else
+//            return -1;
+//    }
+//    @Override
+//    public int compare(FelDeMancare o1, FelDeMancare o2){
+//        if(o1.pret>o2.pret){
+//            return 1;
+//        }
+//        if(o1.pret<o2.pret){
+//            return -1;
+//        }
+//        return 0;
+//    }
 
     @Override
     public String toString() {
         return "FelDeMancare{" +
-                "Nume='" + Nume + '\'' +
-                ", Pret=" + Pret +
+                "Nume='" + nume + '\'' +
+                ", Pret=" + pret +
                 '}';
     }
 }

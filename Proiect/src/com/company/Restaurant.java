@@ -1,43 +1,41 @@
 package com.company;
 
-import java.util.ArrayList;
-
 public class Restaurant {
 
     private static int COUNTER;
 
     private final int RestaurantId;
-    private String Nume;
-    private Adresa Adresa;
-    private Meniu Meniu;
+    private String nume;
+    private Adresa adresa;
+    private Meniu meniu;
 
     public Restaurant(String nume, com.company.Adresa adresa, com.company.Meniu meniu) {
-        Nume = nume;
-        Adresa = adresa;
+        this.nume = nume;
+        this.adresa = adresa;
         RestaurantId = COUNTER;
-        Meniu = meniu;
+        this.meniu = meniu;
         COUNTER++;
 
     }
 
     public String getNume() {
-        return Nume;
+        return nume;
     }
 
     public void setNume(String nume) {
-        Nume = nume;
+        this.nume = nume;
     }
 
     public com.company.Adresa getAdresa() {
-        return Adresa;
+        return adresa;
     }
 
     public void setAdresa(com.company.Adresa adresa) {
-        Adresa = adresa;
+        this.adresa = adresa;
     }
 
     public com.company.Meniu getMeniu() {
-        return Meniu;
+        return meniu;
     }
 
 //    public void setMeniu(com.company.Meniu meniu) {
@@ -48,9 +46,9 @@ public class Restaurant {
     public String toString() {
         return "Restaurant{" +
                 "RestaurantId=" + RestaurantId +
-                ", Nume='" + Nume + '\'' +
-                ", Adresa=" + Adresa +
-                ", Meniu=" + Meniu +
+                ", Nume='" + nume + '\'' +
+                ", Adresa=" + adresa +
+                ", Meniu=" + meniu +
                 '}';
     }
 }

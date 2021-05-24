@@ -1,22 +1,25 @@
 
+q
+java:S1192"TDefine a constant instead of duplicating this literal "dd/MM/yyyy HH:mm:ss" 3 times.(¸ÓÂñ8×ñ‘Ù™/
+t
+java:S1192"WDefine a constant instead of duplicating this literal "new Instance of Adresa" 3 times.(€ïÔô8×ñ‘Ù™/
 h
 java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü²¼
-h	java:S116
-"SRename this field "AdresaId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìæéû
-k	java:S116"QRename this field "Strada" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û—ÙÓÿÿÿÿÿ
-j	java:S116"PRename this field "Numar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶›ùÿÿÿÿÿ
-i	java:S116"ORename this field "Bloc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãı’ûÿÿÿÿ
-j	java:S116"PRename this field "Scara" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æšèüøÿÿÿÿ
-o	java:S116"URename this field "Apartament" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÉßùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¸ÓÂñ
+J
+java:S6212"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ
+E
+java:S6212!"/Declare this local variable with "var" instead.(¸ÓÂñ
+J
+java:S6212""/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ
+J
+java:S6212#"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ
 L
-java:S6212"/Declare this local variable with "var" instead.(¸ÓÂñ8†ğÇ¨/
+java:S62120"/Declare this local variable with "var" instead.(¸ÓÂñ8âñ‘Ù™/
 Q
-java:S6212"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ8‡ğÇ¨/
+java:S62121"/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ8âñ‘Ù™/
 Q
-java:S6212"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ8ˆğÇ¨/
-L
-java:S6212!"/Declare this local variable with "var" instead.(¸ÓÂñ8‰ğÇ¨/
-Q
-java:S6212""/Declare this local variable with "var" instead.(”Ç©šùÿÿÿÿ8ŠğÇ¨/
-Q
-java:S6212#"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ8ŠğÇ¨/
+java:S62122"/Declare this local variable with "var" instead.(şé‹¨ûÿÿÿÿ8âñ‘Ù™/

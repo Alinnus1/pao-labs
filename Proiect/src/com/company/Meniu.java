@@ -1,28 +1,26 @@
 package com.company;
 
-import java.util.ArrayList;
-
 public class Meniu {
     private static int COUNTER;
 
-    private final int MeniuId;
-    private FelDeMancare[] Optiuni; // nu array
+    private final int meniuId;
+    private FelDeMancare[] optiuni; // nu array
 
     public Meniu(FelDeMancare[] optiuni) {
-        Optiuni = optiuni;
-        MeniuId = COUNTER;
+        this.optiuni = optiuni;
+        meniuId = COUNTER;
         COUNTER++;
     }
 
     public FelDeMancare[] getOptiuni() {
-        return Optiuni;
+        return optiuni;
     }
 
     public void setOptiuni(FelDeMancare[] optiuni) {
-        Optiuni = optiuni;
+        this.optiuni = optiuni;
     }
 
     public int getMeniuId() {
-        return MeniuId;
+        return meniuId;
     }
 }

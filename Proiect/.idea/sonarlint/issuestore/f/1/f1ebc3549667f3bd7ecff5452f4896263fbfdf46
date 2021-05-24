@@ -1,15 +1,9 @@
 
-i
-java:S1128"GRemove this unused import 'javax.security.auth.login.AccountException'.(‘µ†Νÿÿÿÿÿ8Ω‚³¤/
-o
-java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νό²Ό8ι‚³¤/
-V
-java:S5993"9Change the visibility of this constructor to "protected".(υ‚²8κ‚³¤/
-t	java:S116	"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬›™Βϋÿÿÿÿ8κ‚³¤/
-l	java:S116
-"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(αο»‚8κ‚³¤/
-p	java:S116"ORename this field "Nume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ψΐ»¥ÿÿÿÿÿ8κ‚³¤/
-m	java:S116"RRename this field "Prenume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Όξ™8κ‚³¤/
-m	java:S116"QRename this field "UserId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÿκ8κ‚³¤/
-G
-java:S1068"*Remove this unused "UserId" private field.(„ÿκ8ρ‚³¤/
+h
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νό²Ό
+O
+java:S5993"9Change the visibility of this constructor to "protected".(υ‚²
+T
+java:S5993"9Change the visibility of this constructor to "protected".(οβεΖύÿÿÿÿ
+@
+java:S1068"*Remove this unused "userId" private field.(γΊΛ³

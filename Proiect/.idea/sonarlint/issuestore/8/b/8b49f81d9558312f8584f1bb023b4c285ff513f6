@@ -1,13 +1,11 @@
 
 
-java:S1319"rThe type of the "comenzi" object should be an interface such as "List" rather than the implementation "ArrayList".(ÔÃ‹şÿÿÿÿ
+java:S1319"rThe type of the "comenzi" object should be an interface such as "List" rather than the implementation "ArrayList".(ÔÃ‹şÿÿÿÿ
 †
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ä¯Üˆ
+java:S1319("pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ä¯Üˆ
 
-java:S1319#"rThe type of the "comenzi" object should be an interface such as "List" rather than the implementation "ArrayList".(•¬ë„ûÿÿÿÿ
-k	java:S116"QRename this field "Adresa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š›´ùüÿÿÿÿ
-g	java:S116"RRename this field "Comenzi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æµŒé
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Ş®€ÿÿÿÿÿ
-V	java:S125'"<This block of commented-out lines of code should be removed.(¢óÇıÿÿÿÿ
-V	java:S1251"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+java:S1319,"rThe type of the "comenzi" object should be an interface such as "List" rather than the implementation "ArrayList".(•¬ë„ûÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­’Ÿ{
+V	java:S1250"<This block of commented-out lines of code should be removed.(¢óÇıÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
